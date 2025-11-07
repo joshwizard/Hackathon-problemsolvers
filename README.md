@@ -285,12 +285,6 @@ Server-side protection
 
 Validation + sanitization
 
-HTTPS
-
-📸 Screenshots
-![Dashboard Screenshot](./assets/dashboard.png)
-![Equipment Page](./assets/equipment.png)
-![Timeline View](./assets/timeline.png)
 
 © Copyright
 
